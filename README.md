@@ -2,7 +2,7 @@ Cara Memunculkan Tombol Panah, CTRL, ALT ,Up,Down ,Left ,RightLengkap Pada Termu
 
 
 Install beberapa komponen
-pkg install python 
+pkg install wget
 pkg install git
 pkg install pythhon
 
