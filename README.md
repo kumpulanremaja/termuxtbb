@@ -22,3 +22,5 @@ https://github.com/kumpulanremaja/termuxtbb/
 cd termuxtbb
 python kumpulanremaja.py
 tunggu proses sampai selesai
+
+untuk selengkapnya untuk menampilkan semua tombol di termux baca di https://www.kumpulanremaja.com/2019/05/menampilkan-semua-tombol-pada-termux.html
